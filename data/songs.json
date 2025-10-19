@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a1b2c3d4e5",
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "mood": "happy",
+    "durationSeconds": 233
+  },
+  {
+    "id": "f6g7h8i9j0",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "mood": "sad",
+    "durationSeconds": 295
+  },
+  {
+    "id": "k1l2m3n4o5",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "mood": "energetic",
+    "durationSeconds": 204
+  },
+  {
+    "id": "p6q7r8s9t0",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "mood": "relaxed",
+    "durationSeconds": 243
+  },
+  {
+    "id": "u1v2w3x4y5",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "mood": "romantic",
+    "durationSeconds": 263
+  },
+  {
+    "id": "06d87aee-6052-4ef7-ae21-9b58947ece6b",
+    "title": "Happy",
+    "artist": "Me myself",
+    "mood": "happy",
+    "durationSeconds": 255
+  }
+]
