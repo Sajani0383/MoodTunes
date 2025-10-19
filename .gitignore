@@ -1,8 +1,29 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Kotlin.kt to edit this template
- */
+# Compiled class files
+*.class
 
-fun main(args: Array<String>) {
-  println("Hello World!")
-}
+# NetBeans build folders
+nbproject/private/
+build/
+dist/
+out/
+
+# IDE settings and caches
+*.log
+*.cache
+*.iml
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Local JAR libraries (not uploaded to GitHub)
+lib/
+*.jar
+
+# Temporary or local data files
+data/*.json
+
+# Backup files
+*~
